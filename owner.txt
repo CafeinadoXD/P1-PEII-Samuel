@@ -1,0 +1,11 @@
+#
+# Prova de Programação Estruturada II - P1
+#
+
+#
+# Data: 26/09/23
+#
+
+#
+# Autor: Samuel de Mello Cagnani
+#
